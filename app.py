@@ -38,7 +38,8 @@ def getData():
     
     debug =0
     from  pandas import DataFrame as df
-    import pandas as pd                     # 引用套件並縮寫為 pd
+ 
+     import pandas as pd 
     import numpy as np
 
     import pymysql.cursors
