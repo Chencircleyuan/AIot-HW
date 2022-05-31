@@ -20,14 +20,14 @@
 
 6.(check-point 2) 為了要upload local file to github from local要終端機 C:> 設定下面 (不設定 branch default ='main')
 
-  C:> git config --global user.name "Chencircleyuaan"
+  C:> git config --global user.name "Chencircleyuan"
 
   C:> git config --global user.email a0909992729@gmail.com
 
 7.C:> git remote add origin https://github.com/Chencircleyuan/AIot-HW05.git
 
 if you want to change
-git remote add origin https://github.com/Chencircleyuan/AIot-HW05.git
+git remote add origin https://github.com/Chencircleyuan/AIot-HW.git
 git branch -M main
 git push -u origin main
 
