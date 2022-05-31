@@ -31,7 +31,10 @@ git remote add origin https://github.com/Chencircleyuan/AIot-HW.git
 git branch -M main
 git push -u origin main
 
-#step5
+### Step2
+
+
+### Step5
 1. open xampp
 2.DBMs--> add user/pwd = test123/test123
 3. pip install flask pandas pymysql sklearn
